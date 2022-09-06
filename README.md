@@ -4,7 +4,9 @@ This allows you to see the live screen of your players, ban and kick them.
 The admin panel will allow you to better protect your server against hackers.
 INSTALATION GUIDE:
 1.
+
 Copy the resource vrp_livescreen into your resource.
+
 2.
 Create your api keys by adding new apikeys like shown in the photo.
 
@@ -20,7 +22,9 @@ Create your api keys by adding new apikeys like shown in the photo.
 
 
 3.Go onto "node/index.js", and change the variable server_cache_location to what your cache server location is.
+
 4.Copy what is inside the brawser-exported folder to your xampp/webhost.
+
 5.Test & Enjoy.
 
 
