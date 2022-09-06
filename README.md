@@ -3,12 +3,9 @@ This is a project i did a while ago.
 This allows you to see the live screen of your players, ban and kick them.
 The admin panel will allow you to better protect your server against hackers.
 INSTALATION GUIDE:
-1.
+1.Copy the resource vrp_livescreen into your resource.
 
-Copy the resource vrp_livescreen into your resource.
-
-2.
-Create your api keys by adding new apikeys like shown in the photo.
+2.Create your api keys by adding new apikeys like shown in the photo.
 
 
 
