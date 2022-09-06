@@ -6,6 +6,8 @@ This allows you to see the live screen of your players, ban and kick them.
 
 The admin panel will allow you to better protect your server against hackers.
 
+This project is made in Angular using Ionic.
+
 INSTALATION GUIDE:
 
 1.Copy the resource vrp_livescreen into your resource.
