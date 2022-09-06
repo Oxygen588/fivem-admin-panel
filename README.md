@@ -19,15 +19,17 @@ Create your api keys by adding new apikeys like shown in the photo.
 
 
 
-3.
-Go onto "node/index.js", and change the variable server_cache_location to what your cache server location is.
-4.
-Copy what is inside the brawser-exported folder to your xampp/webhost.
-5.
-Test & Enjoy.
+3.Go onto "node/index.js", and change the variable server_cache_location to what your cache server location is.
+4.Copy what is inside the brawser-exported folder to your xampp/webhost.
+5.Test & Enjoy.
 
 
 SHOWCASE:
+
+
+
+
+
 ![unknbanown](https://user-images.githubusercontent.com/69449240/188734643-366c486b-15fe-4b87-bbf8-113b67cb945b.png)
 ![unk2nown](https://user-images.githubusercontent.com/69449240/188734644-0175aa22-0371-49b9-8ad8-e5dbdd6963fa.png)
 ![unkno1wn](https://user-images.githubusercontent.com/69449240/188734645-d5b2e627-0b4c-46c0-ad8e-8878d4d73cee.png)
