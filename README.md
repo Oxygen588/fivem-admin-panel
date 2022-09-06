@@ -25,7 +25,7 @@ INSTALATION GUIDE:
 
 3.Go onto "node/index.js", and change the variable server_cache_location to what your cache server location is.
 
-4.Copy what is inside the brawser-exported folder to your xampp/webhost.
+4.Copy what is inside the browser-exported folder to your xampp/webhost.
 
 5.Test & Enjoy.
 
