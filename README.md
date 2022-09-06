@@ -15,6 +15,10 @@ Create your api keys by adding new apikeys like shown in the photo.
 
 
 ![image](https://user-images.githubusercontent.com/69449240/188736108-92922c8e-feb3-40be-b4b4-e6b4f94f7ab2.png)
+
+
+
+
 3.
 Go onto "node/index.js", and change the variable server_cache_location to what your cache server location is.
 4.
